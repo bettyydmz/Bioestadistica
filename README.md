@@ -1,13 +1,13 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-39729E?style=for-the-badge)
 
-### 📊 Bioestadística aplicada en R
+###  Bioestadística aplicada en R
 
 Repositorio que documenta análisis y ejercicios desarrollados durante mi formación en bioestadística, enfocados en la exploración, modelado y visualización de datos biológicos usando R.
 
 ---
 
-## 🚀 Descripción del proyecto
+##  Descripción del proyecto
 
 Este repositorio reúne distintos análisis reproducibles realizados en R y Quarto, abordando conceptos fundamentales de bioestadística mediante datos reales y simulados.
 
@@ -15,7 +15,7 @@ Los notebooks incluyen desde estadística descriptiva hasta el uso de distribuci
 
 ---
 
-## 🧠 Habilidades demostradas
+##  Habilidades demostradas
 
 - Análisis exploratorio de datos (EDA)
 - Manejo de distribuciones (Poisson, continuas, etc.)
@@ -39,7 +39,7 @@ Los notebooks incluyen desde estadística descriptiva hasta el uso de distribuci
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **R**
 - **RStudio**
@@ -49,7 +49,7 @@ Los notebooks incluyen desde estadística descriptiva hasta el uso de distribuci
 
 ---
 
-## 📈 Ejemplos de análisis
+##  Ejemplos de análisis
 
 - Exploración de patrones en datos biológicos
 - Modelado de eventos discretos con distribución de Poisson
